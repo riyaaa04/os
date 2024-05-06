@@ -24,6 +24,23 @@ Write a shell script that displays “man”,”bear”,”pig”,”dog”,”c
 <img width="613" alt="Screenshot 2024-05-06 at 5 54 29 PM" src="https://github.com/riyaaa04/os/assets/142775560/0044f1a8-d936-48b3-b4d8-af8212349ac2">
 <img width="613" alt="Screenshot 2024-05-06 at 5 54 52 PM" src="https://github.com/riyaaa04/os/assets/142775560/5b284acc-4ec3-41be-8890-48dc863ef8b8">
 
+exercise 6
+write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against the file or directory with the long listing option.
+<img width="613" alt="Screenshot 2024-05-06 at 6 04 03 PM" src="https://github.com/riyaaa04/os/assets/142775560/bd76219f-a03f-43c2-ace3-32ef8c66b729">
+<img width="613" alt="Screenshot 2024-05-06 at 6 04 21 PM" src="https://github.com/riyaaa04/os/assets/142775560/32210bee-bcac-45cd-b2da-9b5daf373810">
+
+exercise 7
+Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it.
+<img width="613" alt="Screenshot 2024-05-06 at 6 20 16 PM" src="https://github.com/riyaaa04/os/assets/142775560/470af6a5-e8de-4fb9-a6cd-6faf4b39c7db">
+<img width="312" alt="Screenshot 2024-05-06 at 6 20 35 PM" src="https://github.com/riyaaa04/os/assets/142775560/bd3928bb-6bab-45d2-8252-6139f1dea1dc">
+
+exercise 8
+Modify the previous script to accept an unlimited number of files and directories as arguments.
+
+
+
+
+
 
 
 
